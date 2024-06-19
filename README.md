@@ -4,7 +4,7 @@
 - 📫 How to reach me (i am unreachable)
 
 
-🕑︎ Time Zone: kolkata/india
+🕑︎ Time Zone: kolkata/India
 
 💬 Programming Languages: 
 Python                   4 hrs 31 mins       █████████████████████░░░░   84.10 % 

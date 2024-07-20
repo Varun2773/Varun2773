@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Varun2773
-- 👀 I’m interested in frontend designing & developing
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in full stack developing
+- 🌱 I’m currently learning dsa
 - 📫 How to reach me (i am unreachable)
 
 
